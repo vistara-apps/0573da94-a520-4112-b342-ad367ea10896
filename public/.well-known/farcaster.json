@@ -1,0 +1,25 @@
+{
+  "accountAssociation": {
+    "header": "Verify your Farcaster identity to use HazmatGuard for secure compliance and reputation management.",
+    "payload": "{ \"fidelity\": \"HazmatGuard\", \"domain\": \"hazmatguardapp.xyz\" }",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "HazmatGuard",
+    "homeUrl": "https://hazmatguardapp.xyz/miniapp",
+    "iconUrl": "https://hazmatguardapp.xyz/icon-256x256.png",
+    "splashImageUrl": "https://hazmatguardapp.xyz/splash-200x200.png",
+    "splashBackgroundColor": "#0f1419",
+    "webhookUrl": "https://hazmatguardapp.xyz/api/farcaster-webhook",
+    "subtitle": "Automated Hazmat Compliance",
+    "description": "Automated hazmat compliance platform with route optimization and trusted logistics network on Base",
+    "primaryCategory": "logistics",
+    "tags": ["hazmat", "compliance", "logistics", "base", "safety"],
+    "heroImageUrl": "https://hazmatguardapp.xyz/og.png",
+    "tagline": "Compliance Made Simple",
+    "ogTitle": "HazmatGuard - Automated Hazmat Compliance",
+    "ogDescription": "Automated hazmat compliance & trusted logistics network on Base",
+    "ogImageUrl": "https://hazmatguardapp.xyz/og.png"
+  }
+}
