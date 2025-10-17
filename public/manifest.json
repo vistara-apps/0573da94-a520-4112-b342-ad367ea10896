@@ -1,0 +1,14 @@
+{
+  "name": "HazmatGuard",
+  "description": "HazmatGuard is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://0573da94-a520-4112-b342-ad367ea10896.vercel.app",
+  "properties": {
+    "app": {
+      "name": "HazmatGuard",
+      "description": "HazmatGuard is a Base Mini App built with Zara.",
+      "url": "https://0573da94-a520-4112-b342-ad367ea10896.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
